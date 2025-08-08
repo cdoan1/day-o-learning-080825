@@ -9,6 +9,7 @@ agentic ai research and development hackathon
 
 # project
 
+```
 1. use agentic workflow
 2. review the bootstrap project
 2.1 deploy a tier 3 cluster
@@ -16,3 +17,4 @@ agentic ai research and development hackathon
 2.3 tier3 has MCE
 2.4 deploy cert-manager on tier 3
 3. demonstrate maestro communication between two ROSA HCP clusters
+```
