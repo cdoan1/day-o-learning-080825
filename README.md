@@ -1,18 +1,53 @@
-# day-o-learning-080825
+# Day-O Learning 080825
 
-Agentic AI research and development hackathon
+**Agentic AI Research and Development Hackathon**
 
-# Goal
+## 🎯 Goal
 
-* Capture effort of 1 developer + 1 agentic system
-* Starting from zero, record how far we can get
+- Capture the collaborative effort of 1 developer + 1 agentic system
+- Starting from zero, record how far we can progress together
+- Document the journey and learnings
 
-# Project
+## 📋 Project Plan
 
-1. Use agentic workflow
-2. Review the bootstrap project
-   - Deploy a tier 3 cluster
-   - Regional → manages tier 3
-   - Tier 3 has MCE
+### Phase 1: Agentic Workflow Setup
+1. Establish agentic workflow patterns
+2. Set up development environment and tooling
+
+### Phase 2: Bootstrap Project Implementation
+1. **Deploy Tier 3 Cluster**
+   - Regional cluster → manages tier 3
+   - Configure MCE (Multicluster Engine) on tier 3
    - Deploy cert-manager on tier 3
-3. Demonstrate maestro communication between two ROSA HCP clusters
+
+2. **Inter-cluster Communication**
+   - Demonstrate maestro communication between two ROSA HCP clusters
+
+## ⏱️ Timeline & Progress
+
+### Session 1: 8:00-8:25 AM (25 minutes)
+- **Focus**: Repository setup and Claude configuration
+- **Completed**:
+  - Initial repository structure
+  - Basic documentation
+
+### Session 2: 8:45-9:10 AM (25 minutes)  
+- **Focus**: Development environment setup
+- **Completed**:
+  - Claude Code setup
+  - GitHub CLI installation (`brew install gh`)
+  - Automated PR creation workflow
+
+## 🛠️ Development Setup
+
+### Prerequisites
+- GitHub CLI: `brew install gh`
+- Claude Code access
+- Git repository access
+
+### Getting Started
+1. Clone the repository
+2. Review `CLAUDE.md` for development guidance
+3. Follow the project plan phases
+
+
